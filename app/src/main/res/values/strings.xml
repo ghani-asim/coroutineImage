@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoroutineImage</string>
+    <string name="download">Download Image</string>
+</resources>
